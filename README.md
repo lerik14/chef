@@ -10,10 +10,8 @@ To launch the project without ide:
 1. Be sure you have downloaded JDK
 2. Download the project
 3. Open console and go to src project folder
-4. Run the command 
-    javac Main.java
-5. Run the command
-    java Main 
+4. Run the command javac Main.java
+5. Run the command java Main 
 
 After starting the program, you will see the following information in the console:
 1. Sorted list of ingredients by calorie content per 100 grams.
