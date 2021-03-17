@@ -1,14 +1,15 @@
 # chef
 Task for Epam Java Collection course
 
-In this project you can find salad making functionality. The program contains list of ingredients and two ready salads - Chef's and Russian salads.
+In this project you can find salad making functionality. The program contains list of ingredients (in Ingredients class) and two ready salads (in Main class) - Chef's and Russian salads.
 
-To launch the project using ide:
+To launch the project using IDE:
 Open the project and run main method in Main class.
 
-To launch the project without ide:
+To launch the project without IDE:
 1. Be sure you have downloaded JDK
-`java --version`
+`java -version`
+You need JDK 8
 3. Download the project
 4. Open console and go to src project folder
 5. Run the command  `javac Main.java`
